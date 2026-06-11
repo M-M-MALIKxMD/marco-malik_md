@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MARCO%20MALIK%20MD%20BOT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=500%2B%20Commands%20%7C%20Full%20Working%20WhatsApp%20Bot&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- Animated Typing Name -->
-<a href="https://github.com/your-username/marco-malik-md">
+<a href="https://github.com/M-M-MALIKxMD/marco-malik_md">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=✨+Marco+Malik+MD+Bot+✨;🤖+500%2B+Commands+Working;🎵+Song+%7C+🎬+Video+%7C+🤖+AI;📥+TikTok+%7C+FB+%7C+Instagram+DL;🌟+Made+by+Marco+Malik+🇵🇰" alt="Typing SVG" />
 </a>
 
