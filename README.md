@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Name -->
 <a href="https://github.com/M-M-MALIKxMD/marco-malik_md">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=✨+Marco+Malik+MD+Bot+✨;🤖+500%2B+Commands+Working;🎵+Song+%7C+🎬+Video+%7C+🤖+AI;📥+TikTok+%7C+FB+%7C+Instagram+DL;🌟+Made+by+Marco+Malik+🇵🇰" alt="✨+Marco+Malik+MD+Bot+✨;🤖+500%2B+Commands+Working;🎵+Song+%7C+🎬+Video+%7C+🤖+AI;📥+TikTok+%7C+FB+%7C+Instagram+DL;🌟+Made+by+Marco+Malik+🇵🇰" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=✨+Marco+Malik+MD+Bot+✨;🤖+500%2B+Commands+Working;🎵+Song+%7C+🎬+Video+%7C+🤖+AI;📥+TikTok+%7C+FB+%7C+Instagram+DL;🌟+Made+by+Marco+Malik+🇵🇰" alt="Typing SVG" />
 </a>
 
 <br/>
